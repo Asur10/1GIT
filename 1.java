@@ -4,6 +4,7 @@ public class java{
   a=10,b=20;
     int x=a+b;
     System.out.println(x);
+    x=10;
   }
 }
       
