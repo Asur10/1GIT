@@ -6,5 +6,6 @@ public class java{
     System.out.println(x);
     x=10;
   }
+  sakva
 }
       
