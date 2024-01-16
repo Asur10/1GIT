@@ -5,6 +5,7 @@ public class java{
     int x=a+b;
     System.out.println(x);
     x=10;
+  wdwdw
   }
   sakva
 }
