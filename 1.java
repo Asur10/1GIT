@@ -7,6 +7,6 @@ public class java{
     x=10;
   wdwdw
   }
-  sakva
+
 }
       
